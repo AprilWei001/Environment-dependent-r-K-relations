@@ -1,6 +1,6 @@
 # Environment-dependent-r-K-relations
 
-There are currently five main figures and three supplementary figures in Wei and Zhang “Environment-dependent pleiotropic effects of mutations on the maximum growth rate r and carrying capacity K of population growth”. This repository is created to provide data (and scripts) for this paper. 
+There are currently five main figures and three supplementary figures in Wei and Zhang “Environment-dependent pleiotropic effects of mutations on the maximum growth rate r and carrying capacity K of population growth”. This repository is created to provide data (and/or scripts) for this paper. 
 
 The estimated r and K of each strain in each environment are included in “S1 Data”, a supplementary data file included in the paper. The plain text version of “S1 Data” is also included under this repository as “r_k_strain_indexed.txt”, and an unformatted “.xlsx” file as “R_K_strain_indexed.xlsx”.
 
